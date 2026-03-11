@@ -3,4 +3,4 @@ print(sum(data))
 print("Somme:",(data))
 print("Moyenne:",sum(data)/len(data))
 print("Max:",max(data))
-
+print("Min:",min(data))
